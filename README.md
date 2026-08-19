@@ -43,14 +43,6 @@ Informatics student at **Universitas Dipa Makassar**, based in Makassar, Indones
 
 </div>
 
-## Featured Projects
-
-| Project | Description | Stack |
-|---|---|---|
-| 🎬 **Movie Ticket Booking System** | Full-featured cinema booking platform with seat selection and payments | Next.js, Supabase, Tailwind CSS |
-| 🏕️ **Wanderlust Indonesia** | Travel destination discovery and planning app for Indonesian tourism | Laravel, MySQL |
-| 📱 **Paskibraka Mobile App** | Mobile app for managing flag-ceremony team members and schedules | Flutter, Laravel REST API |
-| 💰 **Student Finance App** | Personal finance tracker built for student budgeting | Flutter, SQLite |
 
 ## GitHub Stats
 
