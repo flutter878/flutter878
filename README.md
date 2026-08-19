@@ -1,128 +1,75 @@
-<h1 align="center">Hi 👋, I'm Musliadi As'ad</h1>
-<h3 align="center">Informatics Student | Freelance Software Engineer | Web & Mobile Developer</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;Fullstack+Web+Developer;Flutter+Mobile+Developer;Always+Learning+New+Technologies" />
-</p>
+# Musliadi As'ad
 
----
+**Informatics Student · Freelance Software Engineer · Web & Mobile Developer**
 
-## 🚀 About Me
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=20&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=500&lines=Fullstack+Web+Developer;Flutter+Mobile+Developer;Building+clean%2C+reliable+software" />
 
-- 🎓 Informatics Student at **Universitas Dipa Makassar**
-- 💻 Freelance Software Engineer
-- 🌱 Currently learning **Next.js, Flutter, Laravel, Golang, and Cloud Computing**
-- 🔭 Interested in **Web Development, Mobile Development, UI/UX, and Open Source**
-- ⚡ Love solving problems through code
-- 📍 Makassar, Indonesia
+<br/>
 
----
+<a href="https://github.com/musliadiasad"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:YOUR_EMAIL@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
-## 🛠️ Tech Stack
+</div>
 
-### Programming Languages
-<p>
+<br/>
+
+## About
+
+Informatics student at **Universitas Dipa Makassar**, based in Makassar, Indonesia. I build web and mobile applications end-to-end — from database to UI — and I'm currently deepening my skills in Next.js, Flutter, Laravel, Golang, and cloud infrastructure.
+
+## Tech Stack
+
+<div align="center">
+
+**Languages**
+<br/>
 <img src="https://skillicons.dev/icons?i=php,js,ts,python,dart" />
-</p>
 
-### Frontend
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,bootstrap" />
-</p>
+**Frontend**
+<br/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css" />
 
-### Backend
-<p>
+**Backend**
+<br/>
 <img src="https://skillicons.dev/icons?i=nodejs,express,laravel,golang" />
-</p>
 
-### Mobile
-<p>
-<img src="https://skillicons.dev/icons?i=flutter" />
-</p>
+**Mobile & Database**
+<br/>
+<img src="https://skillicons.dev/icons?i=flutter,mysql,postgres,supabase,firebase" />
 
-### Database
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,postgres,supabase,firebase" />
-</p>
-
-### Tools
-<p>
+**Tools**
+<br/>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,vercel" />
-</p>
 
----
+</div>
 
-## 📊 GitHub Statistics
+## Featured Projects
 
-<p align="center">
+| Project | Description | Stack |
+|---|---|---|
+| 🎬 **Movie Ticket Booking System** | Full-featured cinema booking platform with seat selection and payments | Next.js, Supabase, Tailwind CSS |
+| 🏕️ **Wanderlust Indonesia** | Travel destination discovery and planning app for Indonesian tourism | Laravel, MySQL |
+| 📱 **Paskibraka Mobile App** | Mobile app for managing flag-ceremony team members and schedules | Flutter, Laravel REST API |
+| 💰 **Student Finance App** | Personal finance tracker built for student budgeting | Flutter, SQLite |
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+## GitHub Stats
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+<div align="center">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=musliadiasad&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=musliadiasad&layout=compact&theme=tokyonight&hide_border=true"/>
+</div>
 
-</p>
+<div align="center">
+<img src="https://streak-stats.demolab.com/?user=musliadiasad&theme=tokyonight&hide_border=true"/>
+</div>
 
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
-</p>
+<br/>
 
----
-
-## 🏆 GitHub Trophy
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&row=1&column=6"/>
-</p>
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
-</p>
-
----
-
-## 📂 Featured Projects
-
-### 🎬 Movie Ticket Booking System
-Next.js + Supabase + Tailwind CSS
-
-### 🏕️ Wanderlust Indonesia
-Laravel + MySQL
-
-### 📱 Paskibraka Mobile App
-Flutter + Laravel REST API
-
-### 💰 Student Finance App
-Flutter + SQLite
-
----
-
-## 📫 Connect With Me
-
-<p>
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://skillicons.dev/icons?i=github" />
-</a>
-
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
-
-<a href="mailto:YOUR_EMAIL@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" />
-</a>
-
-</p>
-
----
-
-<p align="center">
-
-> *"Code. Learn. Build. Share."*
-
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat"/>
-
-</p>
+<div align="center">
+<sub>Thanks for stopping by — always open to interesting projects and collaborations.</sub>
+<br/><br/>
+<img src="https://komarev.com/ghpvc/?username=musliadiasad&label=Profile%20Views&color=3B82F6&style=flat"/>
+</div>
