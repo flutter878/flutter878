@@ -1,8 +1,6 @@
 <div align="center">
-
-# Musliadi As'ad
-
-**Informatics Student · Freelance Software Engineer · Web & Mobile Developer**
+  
+**MUSLIADI AS'AD · Freelance Software Engineer · Masih Pemula**
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=20&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=500&lines=Fullstack+Web+Developer;Flutter+Mobile+Developer;Building+clean%2C+reliable+software" />
 
