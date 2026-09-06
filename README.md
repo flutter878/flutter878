@@ -1,11 +1,8 @@
-<!-- ===== THEME-AWARE HERO BANNER ===== -->
-<!-- GitHub automatically shows dark.svg in dark mode and light.svg in light mode -->
+<!-- ===== HERO BANNER ===== -->
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/flutter878/flutter878/main/dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/flutter878/flutter878/main/light.svg">
-  <img alt="Musliadi As Ad" src="https://raw.githubusercontent.com/flutter878/flutter878/main/light.svg">
-</picture>
+<div align="center">
+  <img width="100%" alt="Musliadi As Ad" src="https://raw.githubusercontent.com/flutter878/flutter878/main/banner.png">
+</div>
 
 <!-- ===== GITHUB STATS ===== -->
 
