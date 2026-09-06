@@ -44,12 +44,6 @@
 </div>
 
 <!-- ===== END SNAKE ===== -->
-<br/>
-<br/>
-<div align="center">
-<img width="100%" src="https://raw.githubusercontent.com/flutter878/flutter878/projects/projects.svg" alt="Projects" />
-</div>
-
 <!-- ===== SOCIAL BADGES ===== -->
 <br/>
 <div align="center">
