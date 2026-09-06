@@ -1,7 +1,11 @@
 <!-- ===== HERO BANNER ===== -->
 
 <div align="center">
-  <img width="100%" alt="Musliadi As Ad" src="https://raw.githubusercontent.com/flutter878/flutter878/main/banner.png">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/flutter878/flutter878/main/banner.png">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/flutter878/flutter878/main/profile-light.jpg">
+    <img width="100%" alt="Musliadi As Ad" src="https://raw.githubusercontent.com/flutter878/flutter878/main/banner.png">
+  </picture>
 </div>
 
 <!-- ===== GITHUB STATS ===== -->
